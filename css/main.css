@@ -1,0 +1,37 @@
+@media (min-width: 768px){
+.navbar-default {
+    border-color: transparent;
+	}
+}
+
+#logoo {
+	background:url(../img/logo4.png) center;
+	height:250px;
+	width:250px;
+	box1-shadow:0px 0px 50px 8px #000;
+	margin:5px auto;
+}
+
+#cguru {
+	background:url(../img/header.jpg) fixed 100%;	
+}
+header{
+background-image: url(../img/head.png);
+}
+
+footer{
+	padding:1% 0px;
+	
+}
+
+
+.btn-outline-light {
+    color: white;
+    border: 1px solid white;
+	border-radius: 0px; 
+}
+.btn-outline-light:hover, .btn-outline-light:focus {
+    color: #F05F40;
+    background: white;
+    outline: none;
+}
