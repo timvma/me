@@ -35,3 +35,18 @@ footer{
     background: white;
     outline: none;
 }
+
+.modal-body {
+	color:#fff !important;
+	
+
+}
+.modal-header {
+	color:#fff !important;
+	border-bottom: 1px solid #2b2b2b91 !important;
+}
+
+.modal-footer {
+	border-top: 1px solid #2b2b2b91 !important;
+
+}
