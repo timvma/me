@@ -43,10 +43,14 @@ footer{
 }
 .modal-header {
 	color:#fff !important;
-	border-bottom: 1px solid #2b2b2b91 !important;
+	border-bottom: none !important;
 }
 
 .modal-footer {
-	border-top: 1px solid #2b2b2b91 !important;
+	border-top: none !important;
 
+}
+
+.portfolio-box {
+	
 }
